@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algos.iml" filepath="$PROJECT_DIR$/.idea/modules/algos.iml" group="java-practice/algos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algos/algos_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algos/algos_main.iml" group="java-practice/algos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algos/algos_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algos/algos_test.iml" group="java-practice/algos" />
+      <module fileurl="file://$PROJECT_DIR$/java-practice.iml" filepath="$PROJECT_DIR$/java-practice.iml" group="java-practice" />
+    </modules>
+  </component>
+</project>
